@@ -48,15 +48,17 @@ p {
   opacity: 0.8;
   margin: 40px 0 15px;
   transform: translateY(+60%);
+  line-height: 1.4;
 }
 
 .btn {
-  margin: 50px;
+  margin: 47px 0px;
   color: hsl(257, 40%, 49%);
   background-color: #fff;
+  opacity: 0.9;
   padding: 15px 0;
-  width: 35%;
+  width: 40%;
   font-size: 16px;
   border: none;
-  border-radius: 60%;
+  border-radius: 25px;
 }
